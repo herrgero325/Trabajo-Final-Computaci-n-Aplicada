@@ -1,5 +1,8 @@
 # Trabajo-Final-Computaci-n-Aplicada
 
-### Integrantes:
-* Poné tu nombre acá
-* Integrante 2
+# Integrantes
+• Agustin Ogura
+• Gerónimo Oscar Belfiori Carrasco
+• Lucas Ezequiel Capalbo
+• Lucas Tomás Morales Falce
+• Sebastian Heras
